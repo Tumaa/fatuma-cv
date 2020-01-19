@@ -47,8 +47,8 @@ body {
   border-bottom-left-radius: 50% 50%;
 } */
 .navbar-dark .navbar-nav .nav-link {
-  color: pink;
-  padding-top: 0.8rem;
+  color: blue;
+  padding-top: 0.15rem;
 }
 
 .navbar-dark .navbar-nav .nav-link.active,
@@ -101,7 +101,7 @@ body {
   border-width: medium;
   border-radius: 0;
   padding: 0.6rem 1.3rem;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 
 .narrow {
@@ -174,7 +174,7 @@ h3.heading {
 }
 
 .feature h3 {
-  font-size: 1.3rem;
+  font-size: 1.9rem;
   text-transform: uppercase;
   padding-bottom: 0.4rem;
 }
